@@ -70,8 +70,8 @@ To determine an array of strings sorted in lexicographical order, print all of i
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber:  212222063018
 */
 #include <stdio.h>
 #include <string.h>
